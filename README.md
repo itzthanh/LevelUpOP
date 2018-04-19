@@ -1,2 +1,3 @@
 # LevelUpOP
-Community for game theory crafting, strategies, and much more.
+Work in progress...
+Goal: A community for game theory crafting, strategies, and much more.
